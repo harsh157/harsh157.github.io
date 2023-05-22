@@ -9,10 +9,9 @@ I am a machine learning engineer. I have worked on mix of problems, applying tec
 I like to work in different domains and solve diverse and challenging problems. I believe mixing multiple domains gives more information and makes the output of solution more rich and informative. For my masters thesis, I combined methods from NLP and Computer Vision to generate caption for images using transformer based models. During my time working at startup, I was responsible for designing and developing machine learning and deep learning systems, running machine learning tests and experiments, and building data processing pipelines. 
 
 Contact:
-[email](harsh12213@gmail.com)
+[email] harsh12213@gmail.com
 
 You can find the source code for Jekyll at GitHub:
-[GitHub](https://github.com/harsh157/)
-
+[GitHub](https://github.com/harsh157/) /
 [Thesis Project](https://github.com/harsh157/news_image_caption)
 
